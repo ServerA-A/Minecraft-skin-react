@@ -40,10 +40,10 @@ export default function AuthorPage() {
       <div className="w-full max-w-4xl">
         <h1 className="text-4xl md:text-6xl font-bold mb-6 text-center text-orange-300">About the Authors</h1>
         <AuthorCard
-          name="Abhigyan"
-          role="AI&ML & Software Developer"
+          name="Bhavya Bhardwaj"
+          role="Software Developer"
           description="/108809711.jpeg"
-          github="https://github.com/abhigyan126"
+          github=""
         />
         <AuthorCard
           name="Aditya Raj"

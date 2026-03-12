@@ -43,13 +43,7 @@ export default function AuthorPage() {
           name="Bhavya Bhardwaj"
           role="Software Developer"
           description="/108809711.jpeg"
-          github="https://github.com/abhigyan126"
-        />
-        <AuthorCard
-          name="Aditya Raj"
-          role="AI&ML & Software Developer"
-          description="/92661311.jpeg"
-          github="https://github.com/adityyaraj"
+          github="https://github.com/BhavyaBhardwaj0082"
         />
       </div>
     </main>
